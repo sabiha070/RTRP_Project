@@ -19,5 +19,4 @@ This project detects driver drowsiness and alerts the driver to prevent accident
 2. Run the project using Python
 3. Open browser and check output
 
-## 👩‍💻 Author
-- Your Name
+
